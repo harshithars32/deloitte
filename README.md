@@ -1,2 +1,2 @@
 # deloitte
-Let's start the coding in python
+Let's start the coding in python sql
